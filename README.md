@@ -4,6 +4,8 @@ A program that counts
 
 See readme.txt for details
 
+Code space: 36 bytes
+
 
 Version history:
 ----------------
