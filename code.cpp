@@ -1,5 +1,6 @@
-main(){int a=9;
-while(a>0)
+int i,a;
+main()
+{for (i=0;i<9;++i)
 {
-a--;
+a=i;
 }}
