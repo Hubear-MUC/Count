@@ -1,4 +1,4 @@
-Count Version 2.0
+Count Version 2.1
 
 This program counts upwards from 0 to 9.
 
@@ -8,7 +8,8 @@ This program counts upwards from 0 to 9.
   3  {for (i=0;i<9;++i)
   4  {
   5  a=i;
-  6  }}
+  6  }
+  7  }
 
 
 The counting itself has to be watched with a debugger.
@@ -23,6 +24,13 @@ Also the next- function can be used to watch the content of variable a.
 
 Version history:
 ----------------
+
+Version 2.1
+
+Placed the closing curly bracket of main() in a seperate line to make the code more readable.
+
+Version 2.1 works in the same way as version 2.0
+
 
 Version 2.0
 
