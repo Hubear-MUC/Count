@@ -4,11 +4,16 @@ A program that counts
 
 See readme.txt for details
 
-Code space: 46 bytes
+Code space: 47 bytes
 
 
 Version history:
 ----------------
+
+Version 2.3
+
+Added an empty line between the variable definitions and the operating code to make the program more readable and maintainable.
+
 
 Verison 2.2
 
