@@ -1,9 +1,11 @@
-int i,a;
+#include <stdio.h>
+
+int i;
 
 main()
 {
-for (i=0;i<9;++i)
+for (i=0;i<=99;++i)
 {
-a=i;
+printf ("%d\n", i);
 }
 }

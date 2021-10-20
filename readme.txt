@@ -1,34 +1,22 @@
-Count Version 2.3
+Count Version 3.0
+-----------------
 
 This program counts upwards from 0 to 9.
 
-    
-  1  int i,a;
-  2
-  3  main()
-  4  {
-  5  for (i=0;i<9;++i)
-  6  {
-  7  a=i;
-  8  }
-  9  }
+In this version a user interaction was implemented so the program does not have to be used with using a debugger anymore.
 
+Just invoke it and enjoy watching it counting upwards on the screen.
 
-
-The counting itself has to be watched with a debugger.
-
-Set a breakpoint to line 4 or 5.
-
-Run the program and let it stop at the breakpoint set before.
-
-Use the step- function of the debugger to step through the program and watch the value in variable a which will contain the latest value of the counting.
-
-Also the next- function can be used to watch the content of variable a.
 
 
 
 Version history:
 ----------------
+
+Version 3.0
+
+Implementation of user interaction so the program shows the counting process on the screen.
+
 
 Version 2.3
 
