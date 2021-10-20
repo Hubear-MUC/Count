@@ -4,11 +4,16 @@ A program that counts
 
 See readme.txt for details
 
-Code space: 47 bytes
+Code extent: 83 bytes
 
 
 Version history:
 ----------------
+
+Version 3.0
+
+Implementation of user interaction so the program shows the counting process on the screen.
+
 
 Version 2.3
 
